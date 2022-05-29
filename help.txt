@@ -1,0 +1,2 @@
+npx gltfjsx a1a1a1.gltf - convert gltf file from archive to .js component, which you will be render some later
+archive take here: https://sketchfab.com/3d-models?cursor=bz00OA%3D%3D

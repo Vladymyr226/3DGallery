@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@react-three/gltfjsx": "^4.3.4"
+  }
+}
